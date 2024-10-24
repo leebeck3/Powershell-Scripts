@@ -1,8 +1,0 @@
-github
-script for disabling audio devices
-standardize AD scripts
-figure out automating a script as a job(event manager likely solution)
-Remove Thumbs.db script, also kills all sessions using thumbs.db
-Script for removing permissions in .local groups
-figure out a logging template for scripts that need it/implement in script template
-edit script template
