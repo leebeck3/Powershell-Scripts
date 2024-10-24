@@ -1,0 +1,1 @@
+figure out a logging template for scripts that need it/implement in script template
